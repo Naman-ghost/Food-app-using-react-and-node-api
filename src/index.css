@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image-overlay {
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255,0.1) 70% , rgba(0,0,0,0.8));
+}
